@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\obj\Debug\netcoreapp3.1\Operator overloading, generic.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\obj\Debug\netcoreapp3.1\Operator overloading, generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\obj\Debug\netcoreapp3.1\Operator overloading, generic.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\obj\Debug\netcoreapp3.1\Operator overloading, generic.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\obj\Debug\netcoreapp3.1\Operator overloading, generic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\bin\Debug\netcoreapp3.1\Operator overloading, generic.exe
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\bin\Debug\netcoreapp3.1\Operator overloading, generic.deps.json
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\bin\Debug\netcoreapp3.1\Operator overloading, generic.runtimeconfig.json
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\bin\Debug\netcoreapp3.1\Operator overloading, generic.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\bin\Debug\netcoreapp3.1\Operator overloading, generic.dll
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\bin\Debug\netcoreapp3.1\Operator overloading, generic.pdb
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\obj\Debug\netcoreapp3.1\Operator overloading, generic.dll
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\obj\Debug\netcoreapp3.1\Operator overloading, generic.pdb
+C:\Users\ASUS\source\repos\Operator overloading, generic\Operator overloading, generic\obj\Debug\netcoreapp3.1\Operator overloading, generic.genruntimeconfig.cache
